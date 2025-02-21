@@ -24,5 +24,5 @@ The model uses the `5000_movies.csv` dataset containing details like movie title
    cd movie-recommendation-system
 
 
-
+contact- spatne1@umbc.edu
 
